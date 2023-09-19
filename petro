@@ -1,0 +1,65 @@
+---
+title: 'Petro personal information'
+date: '2023-09-19'
+tags: ['person','ruby']
+---
+
+# Introduction
+Hello, I'm Petro! 👋 
+
+I am a Product Engineer with strong focus on backend and I currently live in [Myrhorod, Ukraine](https://goo.gl/maps/J2bcjYx8VnM63ZfeA?coh=178571&entry=tt). This README should help you learn about me and the ways I work and how best to work with me. Feel free to chat with me about `#workwarbalance`, `#neurodiversity`, `#playbacktheatre`, `#predictability`, and `#radicaltransparency`
+
+# Background
+
+Git, Ruby, and RSpec have been my main tools since my career began. During the weekends, I'm [performing in the playback theatre](https://dou.ua/lenta/articles/dou-hobby-playback/) in Kyiv and [other cities of Ukraine](https://www.facebook.com/MalePlaybackUA). I've worked with [kottans.org community](https://youtube.com/playlist?list=PLEK9H5bICxvoiDKQ7epRpxUDmQotmvsgM) in the past. I'm a passionate practitioner of ["Go Scrum Yourself"(c)(tm) framework](https://goscrumyourself.carrd.co/), UPMAⓇ and of [ALKOframework](https://gitlab.com/nowhere-inc/tech-ninjas/alkoframework). My favorite sport is squash: commit squashing. [Feel free to schedule some talk with me](https://calendly.com/petrokoriakin/talk-to-petro?month=2023-03)
+
+# How to collaborate with Petro
+
+I'm a feedback-driven and context-addicted personality. I write a lot to make sure no essential details are missed. When working on a project, my creativity and ability to find **smart workarounds** followed by **boring solutions** can propel it the most. On the other hand, I dislike my unconscious focus on 🤝collaboration and 👁️transparency instead of  📈results and ⏱️efficiency. I welcome direct, actionable feedback from customers, co-workers, code review comments, and even RSpec telling me the specs are failing. Here is the anonymous form, and I encourage you to write down some words about our cooperation https://forms.gle/j9dPdXYgV4qe4o246 
+
+### Some feedbacks from the past:
+- "You are an amazing part of our team and complete a an amazing harmony! You'll be sorely missed within Identity. A personal thank you from me for your patience, knowledge sharing, proactiveness, and a shared passion for quality! Keep up the great work not only in your future roles but in your life as well! Take care," - [Alex](https://www.linkedin.com/in/alexander-butt-piercey/), SE
+- "Petrо helped me learn programming. He explains very clearly and easily, so that experience and professionalism can be felt behind it. It was easy to find a common language with him and achieve jointly set goals." - [Robert](https://www.linkedin.com/in/robert-pavlovskyi-2b2225a9/), Developer
+- "it was a pleasure working with you, you were one of the best engineers I have worked with. Thank you for all of your proactiveness and helpfulness. Take care of yourself and get well 😇 😇" - [Mohammed](https://www.linkedin.com/in/mshbeab/), EM
+- "As QA I celebrate the issue design, it almost met the requirements and could easily pass review! @petrokoriakin1 you are rock! :)" - [Yuliia](https://www.linkedin.com/in/yuliia-terentieva/), QC
+
+### When reaching out to me, my preferences are:
+- Send me an email
+- Send me a 1:1 message in Slack or Discord or Linkedin etc.
+- Tag me in a merge request
+- Tag me in an `issue` or in `epic` or in any other `work_item`
+
+# What does my typical working day look like?
+
+I'm in [EET, UTC+2 or EEST, UTC+3](https://en.wikipedia.org/wiki/Eastern_European_Time) and here are some details:
+- 8am - waking up, have a breakfast, walk through social media, sloowly heading out to the office space nearby.
+- 9am - starting work-related activities: coffee, emails, chats, charts, etc.
+- 1pm or so - lunch and loong walk. Maybe some out-of-work appointments. ~Maybe a gym.~
+- 4pm or so - return to work-related activities.
+- 8pm - wrap up my day, switching into nonworking mode: coffee, chats, art, volunteering. Heading out from the office space with no connection unless production incident.
+
+~_A note #1: I tend to practice late stays and over-the-weekend learning activities. It may look a bit unhealthy... but it is definitely not for my current life stage 😇. Work enviroment is the safest place I have..._~
+
+~_A note #2: I tend to be overexcited on some mornings and propose crazy things in slack or elsewhere. Bear with me or make a short DM with your thoughts. Simple YES/NO questions are the most valuable_~
+
+_A note #0: I'm working on establishing better #workwarbalance habits atm. Check my progress on the [board](https://gitlab.com/petrokoriakin1/petrokoriakin1/-/boards/5432145)_
+
+
+<p>
+<details>
+<summary>A brief history of my community contributions:</summary>
+
+- November 2010: failed job interview with the company where for some reason [this commit](https://gitlab.com/gitlab-org/gitlab-foss/-/commit/9ba1224867665844b117fa037e1465bb706b3685) was the very start of GitLab.
+- March 2011: released my [first RubyGem](https://rubygems.org/gems/threetaps-client/versions).
+- somewhere in 2013: met DZ in person during one of Kharkiv.rb meetups.
+- July 2015: The first creepy conference talk about [my own experiences in the Armed Forces of Ukraine](https://youtu.be/CnRvgnIG3qk).
+- Fall 2016: [kottans.org | ruby 2016 | kharkiv stream](https://youtube.com/playlist?list=PLEK9H5bICxvoiDKQ7epRpxUDmQotmvsgM).
+- February 2019: [A Sad story for Kharkiv.rb #3](https://youtu.be/vyE6MeR17w8).
+- March 2021: The first online meetup talk about [Neurodiversity from insider's perspective](https://youtu.be/aW7W2XVP5Pw). The deck is in English: https://drive.google.com/file/d/1lI63s5Vg5UpVJsXuNDPJ9_m7JemFVpsW/view?usp=sharing .
+- Aug 2021: I've lost accesses to all my indentities: email (it was ortepko@gmail.com), [linkedin](https://www.linkedin.com/in/petrokoriakin/), [DOU](https://dou.ua/users/Ortepko/), facebook (deleted completely), [instagram](https://www.instagram.com/ortepko/), [gitlab](https://gitlab.com/petrokoriakin), [twitter](https://twitter.com/pyotr_k), dropbox, [github](https://github.com/petrokoriakin), [youtube](https://www.youtube.com/ortepko) etc.
+- I'm slowly rebuilding my identities from the scratch...
+- **->>> We are here**
+- To be continued with [ALKOframework](https://gitlab.com/nowhere-inc/tech-ninjas/alkoframework)
+
+</details>
+</p>
